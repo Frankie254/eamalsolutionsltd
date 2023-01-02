@@ -40392,19 +40392,23 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+   .u-header {
+    min-height: 48px;
+  }
+
   .u-header .u-image-1 {
-    width: 74px;
-    height: 118px;
-    margin-top: -9px;
-    margin-left: calc(((100% - 340px) / 2) + -22px);
+    width: 65px;
+    height: 102px;
+    margin-top: 0;
+    margin-left: 0;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: -100px;
+    margin-top: -87px;
   }
 
   .u-header .u-menu-1 {
-    margin: -25px calc(((100% - 340px) / 2)) 9px auto;
+    margin: -29px calc(((100% - 340px) / 2)) 10px auto;
   }
 
   .u-header .u-file-icon-2 {
